@@ -1,6 +1,10 @@
-body
-{
-    background-image:url(200.gif);
+body {
+    background-image: url(200.gif);
     background-repeat: no-repeat;
-    
+
+}
+
+.hey {
+    font-family: Impact;
+    color: chartreuse;
 }
